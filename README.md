@@ -37,7 +37,7 @@ The primary goals of this analysis are to:
   ## Outcomes
 
 - I created a graph that shows the volume versus percentage price change for each time interval. This visualization helps to identify the relationship between trading volume and price movements over different periods. For example, there is a volume vs. price change graph for a 120-minute interval. When there is a low price change, the volume is below 200 million dollars. When we look at the graph, we see that when the price change is over or under 2.5%, the volume increases dramatically. Therefore, strategies that operate in high-volume order books should consider these price changes.
-  
+   
   ![png-1](https://github.com/user-attachments/assets/ee1efa89-e5d8-4cdf-a05e-acbf6f17ad63)
 
 - When we look at the 6-month Ethereum price and its changes, we see that the highest value is 4091 dollars. We know that it has reached this point 5 times, so this point is a resistance level for us. In the future, when it reaches these levels, we can say that investors holding positions should be cautious, as there is a high probability of a reversal from this point.

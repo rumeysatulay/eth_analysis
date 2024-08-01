@@ -38,17 +38,21 @@ The primary goals of this analysis are to:
 
 - I created a graph that shows the volume versus percentage price change for each time interval. This visualization helps to identify the relationship between trading volume and price movements over different periods. For example, there is a volume vs. price change graph for a 120-minute interval. When there is a low price change, the volume is below 200 million dollars. When we look at the graph, we see that when the price change is over or under 2.5%, the volume increases dramatically. Therefore, strategies that operate in high-volume order books should consider these price changes.
    
-  ![png-1](https://github.com/user-attachments/assets/ee1efa89-e5d8-4cdf-a05e-acbf6f17ad63)
+![png-1](https://github.com/user-attachments/assets/383c1887-a5d9-40da-98d8-8edb1711152e)
+
 
 - When we look at the 6-month Ethereum price and its changes, we see that the highest value is 4091 dollars. We know that it has reached this point 5 times, so this point is a resistance level for us. In the future, when it reaches these levels, we can say that investors holding positions should be cautious, as there is a high probability of a reversal from this point.
 - Similarly, when we look at the 6-month chart, we see that the lowest value was in January. However, the price has not fallen to those levels again but has reached a local minimum of 2750 to 3000 dollars 19 times. These points can also be seen as support levels for long-term investors.
   
-![png-2](https://github.com/user-attachments/assets/6763227f-ff6f-4757-9cc4-5df229198f8f)
+![png-2](https://github.com/user-attachments/assets/5841045d-e443-4acc-b3b3-dea3f6569fce)
+
 
 - Using the 6-month row data obtained from Binance, we converted minute-level data into a 120-minute candlestick chart and examined price volatility and volume changes during this period. By analyzing this chart, we can interpret the previously studied volume-price relationship as follows: We observed that volume increased during periods of price volatility. Here, we saw that the volume increase during price uptrends is more obvious. Based on this information, we can consider that an increase in volume for a coin might be an indication of a buying signal.
 
-![png-3](https://github.com/user-attachments/assets/49cd2828-09c7-4b5f-b87a-41d33caac74a)
+![png-3](https://github.com/user-attachments/assets/a647cc1f-aa53-4c66-9c35-8091bebd0944)
+
 
 - Using the raw data, we created graphs for the 15-minute, 60-minute, and 120-minute moving average prices. Since our data spans 6 months, I focused on the one-month segment from June for better clarity. On these graphs, I examined the points where the moving average lines intersected and the subsequent price changes. Generally, I observed that when a shorter moving average crosses above a longer moving average from below, an uptrend often begins. Conversely, when the shorter moving average crosses below the longer moving average, a downtrend typically starts.
   
-![png-4](https://github.com/user-attachments/assets/79423e59-9330-480c-b231-3e5f3df6085a)
+![png-4](https://github.com/user-attachments/assets/7ed3b74e-b581-4972-ae49-231b93f59445)
+
